@@ -96,3 +96,4 @@ Apache License
 [Travis CI]:         https://travis-ci.org/shadowsocks/shadowsocks
 
 # superssserver
+this is a copy of origin 
